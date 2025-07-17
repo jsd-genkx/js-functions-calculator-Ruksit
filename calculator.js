@@ -47,4 +47,4 @@ console.log(calculator(10, 0, "divide")); // Can't devide by zero
 console.log(calculator(10, "a", "add")); // It's must be numbers
 console.log(calculator(10, 5, "unknown")); // Invalid operation.
 
-//-m "calculator.js solution"
+//-m "calculator solution"
